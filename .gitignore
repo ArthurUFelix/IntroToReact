@@ -1,0 +1,6 @@
+node_modules/
+.cacahe/
+dist/
+coverage/
+.vscode/
+.env
